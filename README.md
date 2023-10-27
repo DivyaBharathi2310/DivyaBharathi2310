@@ -1,4 +1,5 @@
-### Hi there 👋
+### Machine learning student @ Norquest College
+Expected graduation 2024
 
 <!--
 **DivyaBharathi2310/DivyaBharathi2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
